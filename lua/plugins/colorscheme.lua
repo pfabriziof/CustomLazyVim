@@ -6,7 +6,7 @@ return {
     return {
       style = "night",
       light_style = "day",
-      transparent = true,
+      transparent = false,
       terminal_color = true,
       styles = {
         sidebars = "transparent",
